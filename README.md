@@ -22,6 +22,7 @@ A simple python command line interface has been written to command the three mot
 
 
 The following commands are used to control the motors:
+
 Commands:
 
         speed=LEVEL : sets the speed of the actuator motors
