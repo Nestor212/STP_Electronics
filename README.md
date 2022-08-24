@@ -24,15 +24,15 @@ A simple python command line interface has been written to command the three mot
 The following commands are used to control the motors:
 Commands:
 
-speed=LEVEL : sets the speed of the actuator motors
+        speed=LEVEL : sets the speed of the actuator motors
 
-LEVEL = number 0 (slowest) - 9 (fastest)
+               LEVEL = number 0 (slowest) - 9 (fastest)
 
-step(x/y/z)=STEPS : steps motor x, y, or z motor by entered STEPS 
+        step(x/y/z)=STEPS : steps motor x, y, or z motor by entered STEPS 
 
-STEPS : positive number for CW direction, 200 full steps = 1 rotation
+               STEPS : positive number for CW direction, 200 full steps = 1 rotation
 
-negative number for CCW direction, 200 full steps = 1 rotation
+                       negative number for CCW direction, 200 full steps = 1 rotation
 
 Note: Only one command can be specified on the command-line.
 
