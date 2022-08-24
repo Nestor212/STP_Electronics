@@ -1,0 +1,2 @@
+2022-08-24 09:26:17,923   main_logger    INFO       Connected to Arduino on serial port: com15
+2022-08-24 09:31:40,235   main_logger    ERROR      An exception occured, exception details: could not open port 'com12': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
